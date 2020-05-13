@@ -16,7 +16,7 @@ Usage:
 
 The output file shows the distribution of the actual daily case numbers of the four compartments on a graph.
 
-The Knime basic user instructions are available at: https://www.knime.com/knime
+The KNIME basic user instructions are available at: https://www.knime.com/knime
 The user must ensure that the R plugin is installed so that the R script is available in node repository of KNIME. The following R packages are required for script to work properly:
 
 - ggplot2
