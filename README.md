@@ -1,5 +1,6 @@
 # COVID19
 KNIME workflow for calculation of daily compartment numbers
+
 An algorithm was developed in KNIME software in order to automatically calculate the GLEAMviz outputs into actual daily case numbers of different compartments (i.e. number of people in every compartment on a given day).
 
 Usage:
